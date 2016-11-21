@@ -1,0 +1,17 @@
+#container{
+	width: 98%;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+.box{
+	width: 30%;
+	float: left;
+	padding: 0px;
+	margin: 5px;
+}
+.box img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
